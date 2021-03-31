@@ -9,3 +9,5 @@
 **Program 4** : *PCA vs. LDA*
 
 **Program 5 & 6** : *ANN, SVM and Logistic Regression*
+
+**Program 7 & 8** : *SVM Regression and Classification*

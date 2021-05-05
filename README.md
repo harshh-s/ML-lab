@@ -11,3 +11,11 @@
 **Program 5 & 6** : *ANN, SVM and Logistic Regression*
 
 **Program 7 & 8** : *SVM Regression and Classification*
+
+**Program 9** : *KNN Classifier*
+
+**Program 10** : *Naive Bayes Classifier*
+
+**Program 11** : *Clustering*
+
+**Program 12 & 13** : *Heirarchical Clustering and DBSCAN*
